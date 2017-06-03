@@ -1,0 +1,118 @@
+[ 2017-05-03T16:56:41+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Plant/addkk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015000s ]
+
+[ 2017-05-03T16:57:47+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Plant/addkk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: admun D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\PlantController.class.php 第 40 行.
+NOTIC: [8] Undefined variable: admun D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\PlantController.class.php 第 40 行.
+
+[ 2017-05-03T16:58:22+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Plant/addkk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: admun D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\PlantController.class.php 第 40 行.
+NOTIC: [8] Undefined variable: admun D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\PlantController.class.php 第 40 行.
+
+[ 2017-05-03T16:58:23+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Plant/addkk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: admun D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\PlantController.class.php 第 40 行.
+NOTIC: [8] Undefined variable: admun D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\PlantController.class.php 第 40 行.
+
+[ 2017-05-03T16:58:29+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Plant/addkk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: admun D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\PlantController.class.php 第 40 行.
+NOTIC: [8] Undefined variable: admun D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\PlantController.class.php 第 40 行.
+
+[ 2017-05-03T16:58:29+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Plant/addkk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: admun D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\PlantController.class.php 第 40 行.
+NOTIC: [8] Undefined variable: admun D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\PlantController.class.php 第 40 行.
+
+[ 2017-05-03T16:58:40+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Plant/addkk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-03T16:58:45+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Plant/addkk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: admun D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\PlantController.class.php 第 40 行.
+NOTIC: [8] Undefined variable: admun D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\PlantController.class.php 第 40 行.
+
+[ 2017-05-03T17:01:18+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Plant/addkk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+NOTIC: [8] Undefined variable: admun D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\PlantController.class.php 第 40 行.
+NOTIC: [8] Undefined variable: admun D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\PlantController.class.php 第 40 行.
+
+[ 2017-05-03T17:01:21+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Plant/addkk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: admun D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\PlantController.class.php 第 40 行.
+NOTIC: [8] Undefined variable: admun D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\PlantController.class.php 第 40 行.
+
+[ 2017-05-03T17:02:06+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Plant/addkk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+SQL: SHOW COLUMNS FROM `h_member_farm` [ RunTime:0.0280s ]
+SQL: SHOW COLUMNS FROM `h_member_farm` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `h_member_farm` WHERE `h_userName` = '123' AND `h_isEnd` = 0  [ RunTime:0.0000s ]
+
+[ 2017-05-03T17:09:54+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Plant/addkk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000500s ]
+SQL: SHOW COLUMNS FROM `h_member_farm` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `h_member_farm` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `h_member_farm` WHERE `h_userName` = '123456' AND `h_isEnd` = 0  [ RunTime:0.0005s ]
+

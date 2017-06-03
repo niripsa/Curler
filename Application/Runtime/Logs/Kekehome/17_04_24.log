@@ -1,0 +1,1390 @@
+[ 2017-04-24T14:32:52+08:00 ] 127.0.0.1 /thinkphp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m_username D:\phpStudy\WWW\thinkphp\Application\Runtime\Cache\Kekehome\463b8e01ee4a47010f3e1c8d1cc0dd88.php 第 75 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014001s ]
+
+[ 2017-04-24T14:36:33+08:00 ] 127.0.0.1 /thinkphp/index.php?Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m_username D:\phpStudy\WWW\thinkphp\Application\Runtime\Cache\Kekehome\463b8e01ee4a47010f3e1c8d1cc0dd88.php 第 75 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-04-24T14:36:44+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T14:36:57+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T14:37:58+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-24T14:38:39+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-24T14:45:26+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T14:45:42+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-24T14:46:29+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-24T14:46:34+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-24T15:40:05+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T15:40:17+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T16:59:05+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.xxx' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `xxx`
+ERR: 1146:Table 'kekehome.xxx' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `xxx`
+
+[ 2017-04-24T16:59:12+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-24T16:59:18+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 1 for Kekehome\Model\UserModel::getUserInfo(), called in D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\LoginController.class.php on line 32 and defined D:\phpStudy\WWW\thinkphp\Application\Kekehome\Model\UserModel.class.php 第 6 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\thinkphp\Application\Kekehome\Model\UserModel.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = null LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-24T16:59:27+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 1 for Kekehome\Model\UserModel::getUserInfo(), called in D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\LoginController.class.php on line 32 and defined D:\phpStudy\WWW\thinkphp\Application\Kekehome\Model\UserModel.class.php 第 6 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\thinkphp\Application\Kekehome\Model\UserModel.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = null LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T16:59:47+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 1 for Kekehome\Model\UserModel::getUserInfo(), called in D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\LoginController.class.php on line 32 and defined D:\phpStudy\WWW\thinkphp\Application\Kekehome\Model\UserModel.class.php 第 6 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\thinkphp\Application\Kekehome\Model\UserModel.class.php 第 8 行.
+SQL: SELECT * FROM `user` WHERE `user_name` = null LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-04-24T16:59:48+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 1 for Kekehome\Model\UserModel::getUserInfo(), called in D:\phpStudy\WWW\thinkphp\Application\Kekehome\Controller\LoginController.class.php on line 32 and defined D:\phpStudy\WWW\thinkphp\Application\Kekehome\Model\UserModel.class.php 第 6 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\thinkphp\Application\Kekehome\Model\UserModel.class.php 第 8 行.
+SQL: SELECT * FROM `user` WHERE `user_name` = null LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T17:00:39+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-24T17:01:24+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-24T17:02:22+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T17:02:29+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-24T17:02:30+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-24T17:02:44+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-24T17:02:49+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:02:54+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:02:55+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:02:55+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:02:56+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:03:03+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-24T17:03:03+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-24T17:03:32+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:03:57+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:04:12+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:04:13+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:04:52+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:04:52+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:05:22+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:05:23+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:05:36+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+ERR: Think\Model:getUserInfo方法不存在！
+
+[ 2017-04-24T17:05:40+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:06:35+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:06:35+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:06:54+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T17:08:15+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:08:23+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:08:23+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:08:29+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-24T17:08:30+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-24T17:08:59+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:13:00+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:13:01+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:13:01+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:13:07+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0010s ]
+
+[ 2017-04-24T17:13:18+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:13:19+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:13:27+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:13:29+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:14:57+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T17:15:17+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:15:38+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:15:39+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:15:46+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:16:27+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:20:27+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T17:20:39+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:21:37+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: autoCheckFields D:\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 1454 行.
+
+[ 2017-04-24T17:21:50+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T17:23:00+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:24:20+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T17:25:16+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:26:32+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:26:33+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:26:33+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:26:34+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:26:39+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: fields D:\phpStudy\WWW\thinkphp\ThinkPHP\Library\Think\Model.class.php 第 134 行.
+
+[ 2017-04-24T17:27:29+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:27:44+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:28:48+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-24T17:28:55+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:29:31+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T17:29:57+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-24T17:30:09+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-24T17:31:27+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:32:32+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T17:33:26+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T17:34:50+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T17:35:00+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T17:35:48+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:36:15+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T17:38:54+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T17:39:24+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:41:54+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:41:54+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:41:55+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:42:26+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:42:27+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:44:00+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:44:01+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:44:30+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-24T17:46:55+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:46:55+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:47:15+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:47:33+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:47:56+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:47:57+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:47:57+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:48:30+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:48:31+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:48:32+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:48:32+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:48:42+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:48:42+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:48:43+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:49:06+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:49:13+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:49:13+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:49:49+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:49:50+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:50:13+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T17:51:14+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+ERR: 1146:Table 'kekehome.users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `users`
+
+[ 2017-04-24T17:51:35+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `user_name` = 'zhl' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-24T20:57:43+08:00 ] 127.0.0.1 /thinkphp/index.php/Kekehome/Login/testModel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
